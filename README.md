@@ -6,7 +6,7 @@
 </h2>
 
 <div align="center">
-  <img alt="Demo" src="./src/assets/landing-page.png" />
+  <img alt="Demo" src="./src/assets/landing-page.jpeg" />
 </div>
 
 <br/>
