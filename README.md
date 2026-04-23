@@ -1,9 +1,9 @@
-# React + Vite
 
-<h2 align="center">
+
+<h1 align="center">
   University Landing Page <br/>
   <a href="https://your-live-link.com" target="_blank">Harshit Nand</a>
-</h2>
+</h1>
 
 <div align="center">
   <img alt="Demo" src="./src/assets/landing-page.jpeg" />
